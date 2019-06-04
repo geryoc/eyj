@@ -162,8 +162,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started {
-  background: #03C4EB;
-  border: 2px solid #03C4EB;
+  background: rgb(3, 235, 100);
+  border: 2px solid rgb(3, 235, 100);
   color: #fff;
 }
 
@@ -540,11 +540,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #services .service-icon {
   float: left;
-  background: #03C4EB;
+  background: rgb(0, 0, 0);
   padding: 16px;
   border-radius: 50%;
   transition: 0.5s;
-  border: 1px solid #03C4EB;
+  border: 1px solid rgb(0, 0, 0);
 }
 
 #services .service-icon i {
@@ -557,7 +557,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .service-item:hover .service-icon i {
-  color: #03C4EB;
+  color: rgb(0, 0, 0);
 }
 
 #services .service-title {
@@ -798,7 +798,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .info i {
   font-size: 32px;
-  color: #03C4EB;
+  color: rgb(0, 0, 0);
   float: left;
 }
 
@@ -845,7 +845,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #03C4EB;
+  background: rgb(0, 0, 0);
   border: 0;
   padding: 10px 24px;
   color: #fff;
